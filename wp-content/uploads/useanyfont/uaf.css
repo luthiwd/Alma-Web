@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'monotype-corsiva';
+				font-style: normal;
+				src: url('//alma.revcc.es/wp-content/uploads/useanyfont/161103034542Monotype-corsiva.eot');
+				src: local('monotype-corsiva'), url('//alma.revcc.es/wp-content/uploads/useanyfont/161103034542Monotype-corsiva.eot') format('embedded-opentype'), url('//alma.revcc.es/wp-content/uploads/useanyfont/161103034542Monotype-corsiva.woff') format('woff');
+			}
+            
+            .monotype-corsiva{font-family: 'monotype-corsiva' !important;}
+            
+		
